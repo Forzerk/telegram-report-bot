@@ -5,7 +5,7 @@ from telegram.ext import (
 )
 
 TOKEN = "7631176083:AAGfY8H_3yOm2ei029jjyCzHF_AF7I9-mwQ"
-CHANNEL_ID = -669910795
+CHANNEL_ID = 669910795
 user_names = {}
 ASK_NAME = 1
 
